@@ -253,6 +253,8 @@ table {
   text-shadow: none;
   background-color: transparent;
   border: 0;
+  text-indent: 100%;
+  white-space: nowrap;
 }
 .input-block-level {
   display: block;
@@ -1582,12 +1584,18 @@ input[type="submit"].btn.btn-mini {
   text-decoration: underline;
   background-color: transparent;
 }
-.wrapper {
-  max-width: 960px;
+#container {
+  max-width: 1024px;
   min-width: 800px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+.brand {
+  width: 100px;
+  height: 100px;
+  display: block;
+  background: url();
 }
 .content {
   display: inline;
