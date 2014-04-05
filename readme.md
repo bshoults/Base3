@@ -13,3 +13,4 @@ Base site templates
 - Rebuild CSS base
 - Create template file
 - Theme
+- Add components (js, css, html)
