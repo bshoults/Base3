@@ -1,0 +1,35 @@
+/* -- BASE IMPORTS -- */
+
+@import "variables.less";
+@import "normalize.less";
+@import "mixins.less";
+@import "grid.less";
+@import "typography.less";
+
+
+/* -- REQUIRED EXTENTIONS -- */
+
+@import "tables.less";
+@import "forms.less";
+@import "buttons.less";
+
+#container {
+	max-width: 1024px;
+	min-width: 800px;
+	.center-block();
+	}
+	
+.brand {
+	width: 100px;
+	height: 100px;
+	display: block;
+	background: url();
+}
+
+.content {
+	.column(9);
+	}
+	
+aside {
+	.column(3);
+	}
