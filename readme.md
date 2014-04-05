@@ -10,7 +10,4 @@ Base site templates
 - Google Pagespeed should be 100 for mobile and desktop
 
 ## Todo
-- Rebuild CSS base
-- Create template file
-- Theme
-- Add components (js, css, html)
+Check issues for to-do's
