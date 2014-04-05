@@ -1,0 +1,10 @@
+/* PEOPLE */
+	Designer & Developer: Ben Shoults
+	Twitter: @bshoults
+	Email: ben@base3creative.com
+
+/* SITE */
+	Last update: 2014/04/04
+	Language: English
+	Doctype: HTML5
+	IDE: Sublime Text, Notepad++, FileZilla, Photoshop
